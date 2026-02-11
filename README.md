@@ -36,9 +36,10 @@ I am actively preparing for **Backend Engineering roles**, focused on:
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&title_color=0FA958&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&title_color=0FA958&text_color=ffffff&bg_color=0d1117&cache_seconds=1800)
+
 
 ---
 
