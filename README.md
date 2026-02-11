@@ -36,21 +36,21 @@ I am actively preparing for **Backend Engineering roles**, focused on:
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=0FA958&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&title_color=0FA958&text_color=ffffff&bg_color=0d1117)
 
 ---
 
 ## 🔥 Coding Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&ring=0FA958&fire=A9580F&currStreakLabel=0FA958)
+![GitHub Streak](https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=dark&ring=0FA958&fire=A9580F&currStreakLabel=0FA958)
 
 ---
 
 ## 📊 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=0FA958&line=580FA9&point=A9580F)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasHMartinsP&bg_color=0d1117&color=0FA958&line=580FA9&point=A9580F)
 
 ---
 
