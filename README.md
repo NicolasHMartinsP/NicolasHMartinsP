@@ -1,75 +1,79 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&animation=twinkling"/>
+# 👋 Hi, I'm Nicolas Henrique (Nick)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=35&center=true&vCenter=true&width=1000&lines=Fala,+eu+sou+Nicolas+Henrique;Engenharia+de+Software+%7C+Engenharia+de+Dados;Transformando+caos+em+sistemas+inteligentes)](https://git.io/typing-svg)
-
----
-
-### 🧠 Sobre mim
-
-Sou estudante de **Engenharia de Software** focado em **Engenharia de Dados**, automação e sistemas escaláveis.  
-Curto transformar dados bagunçados em pipelines sólidos, performáticos e confiáveis.
-
-Gosto de:
-backend forte • automação inteligente • dados em escala • arquitetura bem pensada  
-
-Se tem fluxo, volume e complexidade — eu tô dentro.
+🎓 Software Engineering Student  
+💻 Backend & Data Engineering Focus  
+📊 Automation, Pipelines & High-Performance Systems  
+🐧 Linux User | Systems Thinker | Continuous Learner  
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Engineering Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&theme=tokyonight"/>
-</div>
+I’m building strong foundations in **Backend Engineering and Data Engineering**, working with:
 
----
+- Scalable APIs & backend services  
+- Data pipelines & automation workflows  
+- High-performance system design  
+- Clean architecture & maintainable code  
 
-### 🚀 Stack principal
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-
-</div>
+I enjoy transforming complex problems into reliable systems.
 
 ---
 
-### ⚙️ Tecnologias que uso
+## 🛠 Tech Stack
 
-- Python (ETL, automação, pipelines)
-- SQL (Postgres, SQLite, MySQL)
-- Docker
-- N8N
-- Backend com Node
-- Cloud (AWS / GCP — evoluindo)
-- Mensageria (RabbitMQ)
+### Languages & Data Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-0FA958?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A9580F?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-580FA9?style=for-the-badge&logo=pandas&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0FA958?style=for-the-badge&logo=go&logoColor=white)
 
----
-
-### 📈 Foco atual
-
-✔ Engenharia de dados  
-✔ Pipelines ETL  
-✔ Arquitetura de sistemas  
-✔ Automação  
-✔ Performance  
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-0FA958?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0FA958?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A9580F?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📬 Contato
+## 📈 GitHub Performance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](SEU_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&include_all_commits=true&count_private=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&langs_count=6&hide_border=true&title_color=0FA958&text_color=ffffff&bg_color=0d1117)
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer"/>
+## 🔥 Coding Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=dark&ring=0FA958&fire=A9580F&currStreakLabel=0FA958)
+
+---
+
+## 📊 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasHMartinsP&bg_color=0d1117&color=0FA958&line=580FA9&point=A9580F)
+
+---
+
+## 📚 Current Learning Path
+
+- Backend systems & API architecture  
+- Data engineering fundamentals (ETL, automation, processing)  
+- Python for data workflows  
+- Go for scalable services  
+
+---
+
+## 🎯 Career Objective
+
+Actively preparing for **Backend Engineer** and **Data Engineer** internships and junior roles.  
+
+Focused on building:
+
+✔ scalable systems  
+✔ automation pipelines  
+✔ reliable backend infrastructure  
+
+---
+
+⭐ Building systems, not just writing code.
