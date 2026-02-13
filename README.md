@@ -1,71 +1,75 @@
-# 👋 Hi, I'm Nicolas Henrique (Nick)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&animation=twinkling"/>
 
-🎓 Software Engineering Student  
-💻 Backend & Systems Engineering Focus  
-📊 Automation, Data Processing & High-Performance Services  
-🐧 Linux User | Problem Solver | Continuous Learner  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=35&center=true&vCenter=true&width=1000&lines=Fala,+eu+sou+Nicolas+Henrique;Engenharia+de+Software+%7C+Engenharia+de+Dados;Transformando+caos+em+sistemas+inteligentes)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Backend Specialization
+### 🧠 Sobre mim
 
-I am actively preparing for **Backend Engineering roles**, focused on:
+Sou estudante de **Engenharia de Software** focado em **Engenharia de Dados**, automação e sistemas escaláveis.  
+Curto transformar dados bagunçados em pipelines sólidos, performáticos e confiáveis.
 
-- API design & scalable services  
-- Performance-oriented systems  
-- Data automation and processing pipelines  
-- Clean architecture and maintainable code  
+Gosto de:
+backend forte • automação inteligente • dados em escala • arquitetura bem pensada  
 
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-0FA958?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-580FA9?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-A9580F?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-580FA9?style=for-the-badge&logo=pandas&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0FA958?style=for-the-badge&logo=go&logoColor=white)
-
-### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-0FA958?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-A9580F?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0FA958?style=for-the-badge&logo=node.js&logoColor=white)
+Se tem fluxo, volume e complexidade — eu tô dentro.
 
 ---
 
-## 📈 GitHub Performance
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&include_all_commits=true&count_private=true&title_color=0FA958&icon_color=580FA9&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&langs_count=6&hide_border=true&title_color=0FA958&text_color=ffffff&bg_color=0d1117)
-
----
-
-## 🔥 Coding Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=dark&ring=0FA958&fire=A9580F&currStreakLabel=0FA958)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-## 📊 Activity Graph
+### 🚀 Stack principal
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasHMartinsP&bg_color=0d1117&color=0FA958&line=580FA9&point=A9580F)
+<div align="center">
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 
-## 📚 Current Studies
-
-- JavaScript & React for full system integration  
-- Python (Pandas) for data automation  
-- Go for scalable backend services  
-
----
-
-## 🎯 Career Objective
-
-I am currently open and technically preparing for **Backend Developer Intern and Junior Backend Engineer positions**, with a strong focus on building robust, efficient and scalable backend systems.
+</div>
 
 ---
 
-⭐ Building systems, not just writing code.
+### ⚙️ Tecnologias que uso
+
+- Python (ETL, automação, pipelines)
+- SQL (Postgres, SQLite, MySQL)
+- Docker
+- N8N
+- Backend com Node
+- Cloud (AWS / GCP — evoluindo)
+- Mensageria (RabbitMQ)
+
+---
+
+### 📈 Foco atual
+
+✔ Engenharia de dados  
+✔ Pipelines ETL  
+✔ Arquitetura de sistemas  
+✔ Automação  
+✔ Performance  
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](SEU_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer"/>
+
