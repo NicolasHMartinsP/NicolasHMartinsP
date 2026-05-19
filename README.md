@@ -67,11 +67,6 @@ Most of the things I learn come from building projects that are way bigger than 
 ## github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&theme=merko&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=merko&hide_border=true"/>
 </div>
 
@@ -80,7 +75,7 @@ Most of the things I learn come from building projects that are way bigger than 
 ## contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2a5b13?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-martins-pepino-0a785a345/)
-[![YouTube](https://img.shields.io/badge/YouTube-2a5b13?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-2a5b13?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes_dev)
 [![X](https://img.shields.io/badge/X-2a5b13?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pepes_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-2a5b13?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolash.martinss/)
 [![Gmail](https://img.shields.io/badge/Gmail-2a5b13?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmartinshenrique@gmail.com)
