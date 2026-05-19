@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=28&center=true&vCenter=true&width=1000&lines=Nicolas+Henrique+Martins+Pepino;Software+Engineering+Student;Backend+%7C+Game+development+%7C+System+%7C+Automation)](https://git.io/typing-svg)
 
 ---
+##About me
 Software Engineering student from Brazil.
 
 Interested in backend development, systems, automation, game development and understanding how things work under the hood.
