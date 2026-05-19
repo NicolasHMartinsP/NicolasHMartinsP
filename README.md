@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5b13&height=120&section=header&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=28&center=true&vCenter=true&width=1000&lines=Nicolas+Henrique+Martins+Pepino;Software+Engineering+pepes.dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=28&center=true&vCenter=true&width=1000&lines=Nicolas+Henrique+Martins+Pepino;Software+Engineering+Student;Backend+%7C+Game+development+%7C+System+%7C+Automation)](https://git.io/typing-svg)
 
 ---
 
@@ -57,11 +57,12 @@ Most of the things I learn come from building projects that are way bigger than 
 ## current focus
 
 - Backend fundamentals
-- 3D modeling fundamentals
 - Software architecture
 - Multiplayer game systems
 - Performance and optimization
-- Android aplications
+- Better project organization
+- Building real-world projects instead of tutorial-only stuff
+
 ---
 
 ## github stats
@@ -80,7 +81,7 @@ Most of the things I learn come from building projects that are way bigger than 
 ## contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2a5b13?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-martins-pepino-0a785a345/)
-[![YouTube](https://img.shields.io/badge/YouTube-2a5b13?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes_dev)
+[![YouTube](https://img.shields.io/badge/YouTube-2a5b13?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes.dev)
 [![X](https://img.shields.io/badge/X-2a5b13?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pepes_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-2a5b13?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolash.martinss/)
 [![Gmail](https://img.shields.io/badge/Gmail-2a5b13?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmartinshenrique@gmail.com)
