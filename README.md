@@ -1,128 +1,102 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nicolas+Henrique+(Nick);Software+Engineering+%7C+Data+Engineering;Building+real+products+from+scratch)](https://git.io/typing-svg)
-
----
-
-### 🧠 About Me
-
-I'm a **Software Engineering student** focused on **Data Engineering, Backend Systems and Frontend Development**.
-
-I build things end-to-end — from data pipelines to production React apps with real users.  
-I care about clean architecture, performance, and code that makes sense 6 months later.
-
-I'm passionate about:  
-backend engineering • automation • data at scale • system architecture • frontend performance
-
-If it involves complexity, performance and real-world impact — I'm in.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdf8&size=32&center=true&vCenter=true&width=1000&lines=Nicolas+Pepino+·+pepes.dev;Software+Engineering+·+Build+in+Public;Backend+·+Roblox+·+Real+Projects)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Core Stack
+### about
+
+Software Engineering student. I build things, document the process, and ship.
+
+No tutorials. No "5 tips" threads. Just real projects — backend systems, Roblox games, 3D modelling with Blender — recorded from start to finish.
+
+Currently learning: game dev with Roblox Studio + Lua · 3D modelling with Blender · marathon training on the side.
+
+If it involves building something real from scratch → I'm interested.
+
+---
+
+### stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="42" title="Lua"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+
+  <!-- Backend & DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
+
 </div>
 
 ---
 
-### ⚙️ Technologies & Tools
+### featured project
 
-**Backend & Data**
-- Python (ETL, automation, data pipelines)
-- SQL (PostgreSQL, SQLite, MySQL)
-- Docker & containerized environments
-- N8N workflow automation
-- Node.js
-- Cloud fundamentals (AWS / GCP)
-- Messaging systems (RabbitMQ)
+**The Best Açaí — Customer Feedback System**
 
-**Frontend**
-- React + Vite
-- Tailwind CSS + modular CSS architecture
-- Firebase Firestore (real-time database)
-- Git (version control, branching, conventional commits)
-- Performance optimization (GPU animations, lazy loading, code splitting)
+Production web app deployed across franchise locations. Customers scan a QR code and submit ratings without login — no friction, just data.
 
----
+Built and maintained solo from scratch:
 
-### 🏗️ Featured Project
-
-**The Best Açaí — Customer Feedback System**  
-Production web app deployed across franchise locations. Customers scan a QR code or access a unique link (`?cidade=store-name`) and submit ratings without login.
-
-Built entirely from scratch and maintained solo:
-
-- React + Vite frontend with modular CSS architecture (~8 CSS files, separated by component)
-- Multi-step evaluation modal with dynamic question system (data-driven UI)
+- React + Vite frontend with modular CSS (~8 files, separated by component)
+- Multi-step evaluation modal with dynamic, data-driven question system
 - Hero carousel with autoplay, swipe support and campaign modals
-- Clube The Best modal with smooth slide transitions (fade + lateral slide via GPU-only CSS)
-- Firebase Firestore integration with server timestamps and São Paulo timezone handling
-- Responsive across mobile, tablet and desktop with performance tuned for tablets
-- Documented with a full README covering architecture, hooks, data flow and CSS decisions
+- Firebase Firestore integration with São Paulo timezone handling
+- Responsive across mobile, tablet and desktop — optimised for tablets
+- Documented with full README covering architecture, hooks and data flow
 
-> Stack: React · Vite · Tailwind CSS · Firebase · CSS Modules · Git
-
----
-
-### 📈 Current Focus
-
-✔ Data Engineering fundamentals  
-✔ ETL & pipeline design  
-✔ Scalable system architecture  
-✔ Automation workflows  
-✔ Backend performance  
-✔ Frontend architecture & CSS performance  
-✔ Git workflow & documentation practices  
+> `React` · `Vite` · `Firebase` · `CSS Modules` · `Git`
 
 ---
 
-### 📊 GitHub Performance
+### what I'm building now
+
+- 🎮 **Roblox game** — full cycle: game design → Lua scripting → 3D assets in Blender → publish
+- 📹 **Build in public** — recording the entire development process on YouTube
+- 🏃 **Marathon prep** — logging training alongside the code grind
+
+---
+
+### stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🔥 Coding Streak
+### currently open to
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=tokyonight"/>
-</div>
-
----
-
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasHMartinsP&bg_color=0d1117&color=38bdf8&line=6366f1&point=22c55e)
+Backend · Fullstack · any role where clean architecture and real-world impact matter.
+Internship or junior. Remote preferred.
 
 ---
 
-### 🎯 Career Goal
+### contact
 
-Currently preparing for **Backend Engineer** and **Data Engineer** internship and junior roles.  
-Also open to **Frontend / Fullstack** roles where performance and clean architecture matter.
-
-Focused on building:  
-scalable systems • automated pipelines • reliable infrastructure • maintainable frontend
-
----
-
-### 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-henrique-martins-pepino-0a785a345/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/nicolash.martinss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-martins-pepino-0a785a345/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pepes_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolash.martinss/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmartinshenrique@gmail.com)
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
