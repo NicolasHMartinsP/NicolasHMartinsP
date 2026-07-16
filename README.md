@@ -1,41 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a5b13&height=120&section=header&animation=twinkling"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ade80&size=28&center=true&vCenter=true&width=1000&lines=Nicolas+Henrique+Martins+Pepino;Software+Engineering+Student;Backend+%7C+Game+development+%7C+System+%7C+Automation)](https://git.io/typing-svg)
-
 ---
 ## About me
-
 Software Engineering student from Brazil.
-
 Interested in backend development, systems, automation, game development and understanding how things work under the hood.
-
-Most of the things I learn come from building projects that are way bigger than they were supposed to be.
-
 ---
-
 ## currently doing
-
-- Building a Roblox game completely from scratch
 - Learning Lua and Roblox Studio workflows
 - Modelling 3D assets in Blender
-- Studying backend architecture and software structure
-- Exploring Linux customization and system integration
-- Trying to make projects cleaner, faster and easier to maintain
-
+- Creating a article about cybersecurity and invasion in academic portals
 ---
-
 ## things I like building
-
 - Backend systems
 - Web applications
 - Automation tools
 - Gameplay mechanics
 - Internal business tools
 - Experimental projects
-- Things that probably should've stayed simple
-
 ---
-
 ## tech stack
 
 <div align="center">
@@ -55,17 +35,13 @@ Most of the things I learn come from building projects that are way bigger than 
 
 ## current focus
 
-- Backend fundamentals
+- Backend and cybersecurity fundamentals
 - Software architecture
 - Multiplayer game systems
 - Performance and optimization
 - Better project organization
-- Building real-world projects instead of tutorial-only stuff
-
 ---
-
 ## github stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=merko&hide_border=true"/>
 </div>
