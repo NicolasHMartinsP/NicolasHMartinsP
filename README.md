@@ -1,20 +1,24 @@
 ---
-## About me
+⠀⠀⠀⠀⣠⡤⠖⠛⠉⠉⠉⠙⠒⠦⣄⠀⠀⠀⠀
+⠀⠀⣠⡾⠛⠉⠙⢲⣴⠚⠉⠉⠛⠦⡈⠓⣄⠀⠀
+⠀⣼⠟⢀⣠⡀⣰⠋⠉⣆⠀⣠⡀⠀⠘⣆⠈⢧⠀
+⢸⡟⠀⣼⣿⣷⡇⠀⠀⢸⢰⣿⣿⡄⠀⢹⠀⠘⡇
+⡟⢷⠀⠹⣿⠟⢷⣦⣴⣾⠘⢿⡿⠁⠀⣾⠀⠀⢹
+⡇⠘⢧⡀⠀⠀⠘⢿⣟⠁⠀⠀⠀⢀⡼⠃⠀⠀⢸
+⣧⠀⠀⠉⢓⣶⣞⡉⠈⣹⣶⣶⠒⠋⠀⠀⠀⢀⣼
+⢹⣷⣠⣾⣿⣿⣿⣿⣾⣿⣿⣿⣿⣦⣤⣶⣶⣿⡿
+⠀⢻⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⢿⣿⣿⣿⣿⣿⠃
+⠀⠀⠙⢿⡀⠂⠀⠀⠀⠀⠀⠀⠀⠉⠹⣿⡿⠃⠀
+⠀⠀⠀⢀⣽⣷⣤⣤⣴⡶⠦⣤⣤⣴⣿⡁⠀⠀⠀
+⠀⠀⠀⢸⠟⣿⡿⠋⠁⠀⠐⣿⠟⠻⣿⠃⠀⠀⠀
 Software Engineering student from Brazil.
-Interested in backend development, systems, automation, game development and understanding how things work under the hood.
----
-## currently doing
-- Learning Lua and Roblox Studio workflows
-- Modelling 3D assets in Blender
-- Creating a article about cybersecurity and invasion in academic portals
----
-## things I like building
+
+## I like 
 - Backend systems
 - Web applications
 - Automation tools
-- Gameplay mechanics
 - Internal business tools
-- Experimental projects
+- banoffe
 ---
 ## tech stack
 
@@ -33,19 +37,6 @@ Interested in backend development, systems, automation, game development and und
 
 ---
 
-## current focus
-
-- Backend and cybersecurity fundamentals
-- Software architecture
-- Multiplayer game systems
-- Performance and optimization
-- Better project organization
----
-## github stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasHMartinsP&theme=merko&hide_border=true"/>
-</div>
-
 ---
 
 ## contact
@@ -53,7 +44,7 @@ Interested in backend development, systems, automation, game development and und
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2a5b13?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-henrique-martins-pepino-0a785a345/)
 [![YouTube](https://img.shields.io/badge/YouTube-2a5b13?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pepes_dev)
 [![X](https://img.shields.io/badge/X-2a5b13?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pepes_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-2a5b13?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolash.martinss/)
+[![Instagram](https://img.shields.io/badge/Instagram-2a5b13?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico.henriq/)
 [![Gmail](https://img.shields.io/badge/Gmail-2a5b13?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmartinshenrique@gmail.com)
 
 ---
