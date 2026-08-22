@@ -15,7 +15,7 @@
 ⠀⠀⠀⢸⠟⣿⡿⠋⠁⠀⠐⣿⠟⠻⣿⠃⠀⠀⠀
 </pre>
 
-# Nicolas Henrique Martins Pepino 🥒
+# Nicolas Henrique Martins Pepino 
 
 **Software Engineering student from Brazil.**
 
