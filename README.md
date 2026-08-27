@@ -34,8 +34,6 @@ Currently exploring:
 * 3D Printing and modeling
 * Gaming Development
 
-I also have an unhealthy appreciation for banoffee.
-
 ---
 
 ## Contact
