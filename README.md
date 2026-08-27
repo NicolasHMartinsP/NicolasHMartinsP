@@ -19,7 +19,7 @@
 
 **Software Engineering student from Brazil.**
 
-Backend-focused developer buiding stuff that i think is useful
+buiding stuff that i think is useful
 
 </div>
 
