@@ -1,10 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a5b13&height=170&section=header&text=Nicolas%20Martins&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%C2%B7%20IT%20Assistant&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2A5B13&height=140&section=header"/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3C8C1E&center=true&vCenter=true&width=560&lines=Turning+manual+work+into+automation;Currently+learning+Spring+Boot+and+TypeScript;Aiming+for+Full+Stack+%C2%B7+AI+%C2%B7+Cybersecurity" alt="Typing SVG" />
-
-<br/>
 
 **Software Engineering @ UGV** &nbsp;·&nbsp; **IT Assistant** &nbsp;·&nbsp; 🇧🇷 Brazil
 
@@ -18,12 +14,19 @@
 
 <br/><br/>
 
+### GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NicolasHMartinsP&show_icons=true&hide_rank=true&custom_title=GitHub%20Stats&card_width=380&border_radius=12&bg_color=0d1117&border_color=5B134E&title_color=c77dba&text_color=c9d1d9&icon_color=c77dba" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHMartinsP&layout=compact&langs_count=6&border_radius=12&bg_color=0d1117&border_color=20135B&title_color=8f84e8&text_color=c9d1d9" />
+
+<img width="85%" src="https://streak-stats.demolab.com?user=NicolasHMartinsP&border_radius=12&background=0d1117&border=2A5B13&ring=7bc25a&fire=7bc25a&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=7bc25a&sideLabels=8b949e&dates=6e7681&stroke=30363d" />
+
+<br/><br/>
+
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a5b13?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolashmartinsp/)
-[![Gmail](https://img.shields.io/badge/Gmail-2a5b13?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmartinshenrique@gmail.com)
-[![X](https://img.shields.io/badge/X-2a5b13?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NicoPepino_)
+<a href="https://www.linkedin.com/in/nicolashmartinsp/"><img src="https://img.shields.io/badge/LinkedIn-2a5b13?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:nicolasmartinshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-20135b?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://x.com/NicoPepino_"><img src="https://img.shields.io/badge/X-5b134e?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a5b13&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2A5B13&height=120&section=footer"/>
