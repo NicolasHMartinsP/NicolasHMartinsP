@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Software Engineering @ UGV** &nbsp;·&nbsp; **IT Assistant** &nbsp;·&nbsp; 🇧🇷 Brazil
+**Software Engineering @ UGV** &nbsp;·&nbsp; 🇧🇷 Brazil
 
 <br/>
 
