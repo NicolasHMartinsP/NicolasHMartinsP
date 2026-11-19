@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3C8C1E&center=true&vCenter=true&width=560" alt="Typing SVG" />
-
 <br/>
 
 **Software Engineering @ UGV** &nbsp;·&nbsp; **IT Assistant** &nbsp;·&nbsp; 🇧🇷 Brazil
