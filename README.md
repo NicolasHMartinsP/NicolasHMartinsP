@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3C8C1E&center=true&vCenter=true&width=560&lines=Turning+manual+work+into+automation;Currently+learning+Spring+Boot+and+TypeScript;Aiming+for+Full+Stack+%C2%B7+AI+%C2%B7+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3C8C1E&center=true&vCenter=true&width=560" alt="Typing SVG" />
 
 <br/>
 
